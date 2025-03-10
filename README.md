@@ -1,4 +1,4 @@
-## Hi there 👋
+## 가천대학교 인공지능개론
 
 <!--
 **TAAEEK/TAAEEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
