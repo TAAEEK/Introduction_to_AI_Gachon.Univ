@@ -1,5 +1,5 @@
 ## 인공지능개론
-
+응용통계학과 202032152 홍민택
 <!--
 **TAAEEK/TAAEEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
